@@ -47,3 +47,10 @@ Optional: install pip (Python package manager):
 | 7 | Functions | [`7-functions.py`](7-functions.py) |
 
 ---
+
+## Acknowledgments
+
+Developed by **Bandhayudha Internship Team**  
+for the **Communication Essentials** training series.  
+
+📘 Part of the [Bandhayudha Internship Program](https://bandhayudha.com/)
