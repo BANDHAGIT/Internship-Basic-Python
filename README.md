@@ -1,4 +1,4 @@
-# Python Basics Tutorial
+# Python Basics
 
 Welcome to the **Python Basics for Bandhayudha Internship** series!  
 
